@@ -1,3 +1,6 @@
+Download from Release
+
+
 Start the the project by following :
 
 Server : npm start => open at http://localhost:3000
