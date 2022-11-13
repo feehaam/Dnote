@@ -1,11 +1,21 @@
-import './App.css'
+import { BrowserRouter, Route, Routes } from "react-router-dom";
+import "./App.css";
+import { Homepage } from "./pages/Homepage";
+import { Navigation } from "./shared/Navigation";
 
 function App() {
   return (
-    <div>
-      <h1>Bismiallah </h1>
-    </div>
-  )
+    <>
+      <Navigation/>
+      <BrowserRouter>
+        <Routes>
+         <Route path='/' element={<Homepage/>}/>
+         <Route path='/dnote' element={<Homepage/>}/>
+         
+        </Routes>
+      </BrowserRouter>
+    </>
+  );
 }
 
-export default App
+export default App;
