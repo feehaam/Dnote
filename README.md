@@ -1,4 +1,4 @@
-<a href="https://ibb.co/J5M4YrD"><img src="https://i.ibb.co/hDtjG23/Capture.png" alt="Capture" border="0" width=400 /></a>
+<a href="https://ibb.co/J5M4YrD"><img src="https://i.ibb.co/hDtjG23/Capture.png" alt="Capture" border="0" width=1000 /></a>
 
 Download from Release
 
